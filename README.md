@@ -204,7 +204,7 @@ jupyter notebook
 
 **Neeta Sharma**
 
-B.Sc. Data Science & Big Data Analytics
+B.Sc. Data Science & Big Data Analytics (Honours)
 
 MIT World Peace University 2025
 
